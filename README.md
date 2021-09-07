@@ -7,3 +7,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gelouno&exclude_repo=horse_farm)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gelouno&exclude_repo=portfolio_next)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+<img src="https://github.com/gelouno/portfolio_next/blob/portfolio_next/images/stat.svg" alt="Alternative Text"/>
+Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
+
