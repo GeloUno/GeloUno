@@ -1,6 +1,7 @@
-### Hi there 👋,  I'm GeloUno sometimes HelloGello
+### Hi there 👋, hello
+### I'm GeloUno sometimes HelloGello
 #### I'm Frontend developer
-![I'm Frontend developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I'm Frontend developer](https://github.com/leereilly/leereilly/blob/master/gitris.gif?raw=true)
 
 I love TypeScript
 
@@ -14,6 +15,4 @@ Skills: NEXT / REACT / NODE / TS / JS / HTML / CSS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gelouno)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gelouno&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gelouno)  
 
