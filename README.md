@@ -4,7 +4,7 @@
 
 #### I do content on Design and Developer. I really enjoy learning languages and frameworks like React, Next and Node.
 
-![Designer and Developer](https://github.com/leereilly/leereilly/blob/master/gitris.gif?raw=true)
+
 
 ##Skills:
 
@@ -19,3 +19,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gelouno)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gelouno&show_icons=true)  
 
+![Designer and Developer](https://github.com/leereilly/leereilly/blob/master/gitris.gif?raw=true)
