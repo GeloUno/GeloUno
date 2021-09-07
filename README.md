@@ -1,12 +1,13 @@
 ### Hi there 👋,
 #### Designer and Developer
 ![Designer and Developer](https://github.com/leereilly/leereilly/blob/master/gitris.gif?raw=true)
+
 I love TypeScript
 
 Skills: NEXT / REACT / NODE / TS / JS / HTML / CSS
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gelouno)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gelouno)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://gk.vercel.app/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gelouno)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gelouno&show_icons=true)  
