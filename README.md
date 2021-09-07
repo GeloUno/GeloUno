@@ -7,9 +7,9 @@
 I Gelo, and I do content on Design and Developer. I really enjoy learning languages and frameworks like React, Next and Node.
 
 ##Skills:
-⚛️ NEXT, React,
-💻 NODE ,TypeScript, JavaScript, HTML, CSS
-🌈 AbobeXD, Figma
+*⚛️ NEXT, React,
+*💻 NODE ,TypeScript, JavaScript, HTML, CSS
+*🌈 AbobeXD, Figma
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gelouno)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://gk.vercel.app/)  
 
