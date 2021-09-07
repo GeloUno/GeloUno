@@ -12,9 +12,9 @@
 
 ## Developer Skills
 
-⚛️ NEXT, React,
+⚛️ Next, React,
 
-💻 NODE ,TypeScript, JavaScript, HTML
+💻 Node, Express, TypeScript, JavaScript, HTML
 
 🖌️ CSS, MateriaUI, TailwindCSS
 
