@@ -6,8 +6,9 @@
 
 #### I really enjoy learning languages and frameworks like React, Next and Node.
 
+###
 
-
+###
 
 ## Developer Skills
 
@@ -17,13 +18,19 @@
 
 🖌️ CSS, MateriaUI, TailwindCSS
 
+🏪 MongoBD, MySQL
 
+###
 
+###
 
 ## Design Skills
 
 🌈 AbobeXD, Figma
 
+###
+
+###
 
 
 ## GitHub
