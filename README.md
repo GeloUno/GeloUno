@@ -1,6 +1,9 @@
 ### Hi there 👋,
-### Hello, I'm Gelo, sometimes you can find me as HelloGello or GeloUno.
-#### I Gelo, and I do content on Design and Developer. I really enjoy learning languages and frameworks like React, Next and Node.
+
+### I'm Gelo, sometimes you can find me as HelloGello or GeloUno.
+
+#### I do content on Design and Developer. I really enjoy learning languages and frameworks like React, Next and Node.
+
 ![Designer and Developer](https://github.com/leereilly/leereilly/blob/master/gitris.gif?raw=true)
 
 ##Skills:
