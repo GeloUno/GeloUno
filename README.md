@@ -1,6 +1,6 @@
 ### Hi there 👋,
 
-### I'm Gelo, sometimes you can find me as HelloGello or GeloUno.
+### Hi, my fist name is Grzegorz, many people call me Gelo, sometimes you can find me as HelloGello or GeloUno.
 
 #### I'm Design and Developer.
 
@@ -32,5 +32,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gelouno)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gelouno&show_icons=true)  
-
-![Designer and Developer](https://github.com/leereilly/leereilly/blob/master/gitris.gif?raw=true)
