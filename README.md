@@ -8,6 +8,7 @@
 
 
 
+
 ## Developer Skills
 
 ⚛️ NEXT, React,
@@ -17,9 +18,13 @@
 🖌️ CSS, MateriaUI, TailwindCSS
 
 
+
+
 ## Design Skills
 
 🌈 AbobeXD, Figma
+
+
 
 ## GitHub
 
