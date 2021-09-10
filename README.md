@@ -2,13 +2,13 @@
 
 ### My first name is Grzegorz, many people call me Gelo, sometimes you can find me as HelloGello or GeloUno.
 
-#### I'm Developer and Designer.
+### I'm Developer and Designer.
  
 ###  I love TypeScript 😃
  
 ### 
   
-### Developer Skills
+## Developer Skills
 
 ⚛️ Next, React,
 
@@ -22,7 +22,7 @@
 
 ###  
  
-### Designer Skills
+## Designer Skills
 
 🌈 AbobeXD, Figma
  
