@@ -38,3 +38,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gelouno)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gelouno&show_icons=true)  
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gelouno)](https://github.com/gelouno/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gelouno&show_icons=true)  
+
