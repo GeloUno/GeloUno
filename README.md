@@ -12,7 +12,7 @@
 
 ⚛️ Next, React,
 
-💻 Node, Express, TypeScript, JavaScript, HTML
+💻 Nest, Node, Express, TypeScript, JavaScript, HTML
 
 🖌️ CSS, MateriaUI, TailwindCSS
 
